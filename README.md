@@ -21,6 +21,7 @@
 - boB Rudis, "CVE-2025-55182 (React2Shell) Opportunistic Exploitation In The Wild: What The GreyNoise Observation Grid Is Seeing So Far," GreyNoise, published December 5, 2025, article updated through January 7, 2026, accessed April 5, 2026, https://www.greynoise.io/blog/cve-2025-55182-react2shell-opportunistic-exploitation-in-the-wild-what-the-greynoise-observation-grid-is-seeing-so-far.
 - Jason Saayman, "Post Mortem: axios npm supply chain compromise," GitHub issue #10636 in `axios/axios`, dated March 31, 2026, accessed April 6, 2026, https://github.com/axios/axios/issues/10636.
 - Ashish Kurmi, "axios Compromised on npm - Malicious Versions Drop Remote Access Trojan," StepSecurity, published March 30, 2026, accessed April 6, 2026, https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan.
+- Socket Research Team, "TanStack npm Packages Compromised in Ongoing Mini Shai-Hulud Supply-Chain Attack," Socket, published May 11, 2026, accessed May 17, 2026, https://socket.dev/blog/tanstack-npm-packages-compromised-mini-shai-hulud-supply-chain-attack.
 - OKcontract Chainwall, "JavaScript Supply Chain Scare: When npm install Leads to Full Compromise," Coinmonks on Medium, published November 25, 2025, accessed April 6, 2026, https://medium.com/coinmonks/it-starts-with-a-totally-normal-npm-install-26e04eee9402.
 
 ## Inne managery paczek
